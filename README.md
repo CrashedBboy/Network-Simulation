@@ -1,5 +1,5 @@
 # Network-Simulation
-Computer network simulation using C++ and NS-3
+Network simulation of TCP/IP, UDP/IP, LAN, and WiFi using C++ and NS-3
 
 ## Protocols (Ongoing)
 
